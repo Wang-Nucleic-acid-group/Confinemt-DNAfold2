@@ -45,7 +45,7 @@ Usage:
 
 
 3. Output Files
-- Results are stored in the results/ directory. Key subdirectories include:
+- Results are stored in the results/directory. Key subdirectories include:
   - (1) Folding_trajectory/: Trajectories at different temperatures
   - (2) CG_structures/: Predicted coarse-grained 3D structures
   - (3) Secondary_structure/: Top-N secondary structures in dot-bracket notation
@@ -80,6 +80,6 @@ References:
 ================================================================
 [1] Z.-C. Mu, Y.-L. Tan, B.-G. Zhang, J. Liu, Y.-Z. Shi. Ab initio predictions for 3D structure and stability of single- and double-stranded DNAs in ion solutions. PLoS Comput. Biol. 18, e1010501 (2022).
 
-[2] X. Wang, Y.-Z. Shi. 3D structure and stability prediction of DNA with multi-way junctions in ionic solutions. PLoS Comput. Biol. 8, e1013346 (202).
+[2] X. Wang, Y.-Z. Shi. 3D structure and stability prediction of DNA with multi-way junctions in ionic solutions. PLoS Comput. Biol. 8, e1013346 (2025).
 
 
